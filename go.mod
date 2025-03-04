@@ -1,4 +1,4 @@
-module github.com//SmallYangCong/rpcx-consul
+module github.com/SmallYangCong/rpcx-consul
 
 go 1.23.4
 
