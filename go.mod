@@ -3,7 +3,7 @@ module github.com/SmallYangCong/rpcx-consul
 go 1.23.6
 
 require (
-	github.com/SmallYangCong/rpcx v1.0.6
+	github.com/SmallYangCong/rpcx v1.0.8
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475
 	github.com/rpcxio/libkv v0.5.1
 )
