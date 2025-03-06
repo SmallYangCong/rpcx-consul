@@ -5,11 +5,11 @@ import (
 	"sync"
 	"time"
 
+	"github.com/SmallYangCong/rpcx/client"
+	"github.com/SmallYangCong/rpcx/log"
 	"github.com/rpcxio/libkv"
 	"github.com/rpcxio/libkv/store"
 	"github.com/rpcxio/libkv/store/consul"
-	"github.com/smallnest/rpcx/client"
-	"github.com/smallnest/rpcx/log"
 )
 
 func init() {
