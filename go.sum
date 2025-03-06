@@ -3,6 +3,7 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/DataDog/datadog-go v3.2.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
 github.com/SmallYangCong/rpcx v1.0.8 h1:lFXMJlQGvVoTICq6Xa89Re7dM9dwYHgjdo4WA/Zq6jY=
 github.com/SmallYangCong/rpcx v1.0.8/go.mod h1:A9nUl8/mi7kamcysYz4GI0aCz55FqQgnvPQld1UqeoI=
+github.com/SmallYangCong/rpcx v1.0.9/go.mod h1:3rX9dwxtjazjv90m4RsskD14Zxk7U9u92lWdzmSWEeU=
 github.com/SmallYangCong/statsview v1.0.1 h1:QEnx6qQe2hE/MukpqRrCMN76x0EpvAqLLU1RiJVJtMU=
 github.com/SmallYangCong/statsview v1.0.1/go.mod h1:wE1kdkFWUwHIHYU1/cDSHVrIbVO1UtQUM4UTeK+KI9Q=
 github.com/akutz/memconn v0.1.0 h1:NawI0TORU4hcOMsMr11g7vwlCdkYeLKXBcxWu2W/P8A=
